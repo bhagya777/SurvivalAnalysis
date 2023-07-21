@@ -26,8 +26,9 @@ commands-
 pip install matplotlib
 pip install matplotlib
 
-The third step is to visualize data from the tables created in step two. The code is given in 'SurvivalVisualize,py' file. Run the code to get three graphs.
+The third step is to visualize data from the tables created in step two. The code is given in 'SurvivalVisualize,py' file. Run the code to get five graphs.
 First graph gives visualization of the data from 'SurvivedSex' table. It gives the numbers of males and females; survived and died.
 Second graph gives visualization of the data from 'SurvivedClass' table. It gives the numbers survived and died people from the first, second and third passenger class.
 Third graph gives visualization of the data from 'SurvivedAgeclass' table. It gives the numbers of survived and died people from different age groups namely young, adult and aged.
-Note : You have to close first graph in order to get second and same goes for third one.
+Fourth graph gives visualization of the data from 'SurvivedClass' table. It gives the numbers survived and died males and females from the first, second and third passenger class.
+Fifth graph gives visualization of the data from 'SurvivedAgeclass' table. It gives the numbers of survived and died people from different age groups namely young, adult and aged in first, second and third class.
