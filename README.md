@@ -36,7 +36,7 @@ Sixth graph gives visualization of the data from 'Probability' table. It gives t
 
 
 
-
+![ssf](https://github.com/bhagya777/SurvivalAnalysis/assets/139783534/dd1036b6-b579-4c59-a9a5-0a55033110b7)
 
 
 
