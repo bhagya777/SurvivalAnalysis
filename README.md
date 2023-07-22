@@ -1,6 +1,6 @@
 Analyzing Survival data from the accident using python and sqlite3 and vizualizing the data using Matplotlib library and Numpy.
 
-Note : The program is written in Pyrhon 3.10
+Note : The program is written in Python 3.10
 
 The data of survival from titanic accident is given in file-'TitanicSurvival.csv'.
 You should install the SQLite browser to view and modify the databases from:
@@ -32,7 +32,7 @@ Second graph gives visualization of the data from 'SurvivedClass' table. It give
 Third graph gives visualization of the data from 'SurvivedAgeclass' table. It gives the numbers of survived and died people from different age groups namely young, adult and aged.
 Fourth graph gives visualization of the data from 'SurvivedClass' table. It gives the numbers survived and died males and females from the first, second and third passenger class.
 Fifth graph gives visualization of the data from 'SurvivedAgeclass' table. It gives the numbers of survived and died people from different age groups namely young, adult and aged in first, second and third class.
-Sixth class gives visualization of the data from 'Probability' table. It gives the probabilities of survival in different events.
+Sixth graph gives visualization of the data from 'Probability' table. It gives the probabilities of survival in different events.
 
 
 
