@@ -33,3 +33,28 @@ Third graph gives visualization of the data from 'SurvivedAgeclass' table. It gi
 Fourth graph gives visualization of the data from 'SurvivedClass' table. It gives the numbers survived and died males and females from the first, second and third passenger class.
 Fifth graph gives visualization of the data from 'SurvivedAgeclass' table. It gives the numbers of survived and died people from different age groups namely young, adult and aged in first, second and third class.
 Sixth class gives visualization of the data from 'Probability' table. It gives the probabilities of survival in different events.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
