@@ -19,7 +19,12 @@ no. of male passengers survived 161
 no.of female passengers survived 339...
 
 And you can open 'titanic.db' file in SQLite browser. It will give you 4 new tables which are created in this step.
-tables- SurvivedSex, SurvivedClass, SurvivedAgeclass,Probability
+tables- SurvivedSex, SurvivedClass, SurvivedAgeclass, Probability
+
+![p1](https://github.com/bhagya777/SurvivalAnalysis/assets/139783534/88e7f5f3-c1d0-4c9f-a0f8-fee67ecbc2a4)
+![p2](https://github.com/bhagya777/SurvivalAnalysis/assets/139783534/8d61a2da-9e84-4006-8d94-6e2412e2d946)
+![p3](https://github.com/bhagya777/SurvivalAnalysis/assets/139783534/29345a13-01bc-485d-8fb5-4cc9f3284bb7)
+![p4](https://github.com/bhagya777/SurvivalAnalysis/assets/139783534/2247ae93-8f09-4b93-b87a-e5d6eabd916a)
 
 Before moving to the third step, you should install 'matplotlib' and 'numpy' packages in python. 
 commands-
